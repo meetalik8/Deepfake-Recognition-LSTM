@@ -1,2 +1,2 @@
 # Deepfake-Recognition-LSTM
-DSPL Sem 8 Mini Project
+DSPL Sem 7 Mini Project
